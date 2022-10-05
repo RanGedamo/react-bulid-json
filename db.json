@@ -1,0 +1,91 @@
+[
+  {
+    "city": "Kfar-Yona",
+    "address": "Sharona",
+    "rooms": "6 Rooms",
+    "img1": "https://img.yad2.co.il/Pic/202209/28/2_6/o/y2_1_lfIrCrxplG_20220928.jpg",
+    "img2": "https://img.yad2.co.il/Pic/202209/28/2_6/o/y2_4_52UCB_Ok8y_20220928.jpg",
+    "img3": "https://img.yad2.co.il/Pic/202209/28/2_6/o/y2_6_F952EalDID_20220928.jpg",
+    "price": "$3,408"
+  },{
+    "city": "Kfar-Yona",
+    "address": "Sharona",
+    "rooms": "6 Rooms",
+    "img1": "https://img.yad2.co.il/Pic/202208/16/2_6/o/y2_1_eCemMiQqOt_20220816.jpeg",
+    "img2": "https://img.yad2.co.il/Pic/202208/16/2_6/o/y2_3_D1gLUQghD3_20220816.jpeg",
+    "img3": "https://img.yad2.co.il/Pic/202208/16/2_6/o/y2_4_osfad4aFcd_20220816.jpeg",
+    "price": "$2,840"
+  },{
+    "city": "Kfar-Yona",
+    "address": "Sharona",
+    "rooms": "7 Rooms",
+    "img1": "https://img.yad2.co.il/Pic/202209/13/2_6/o/y2_4_3qxn59wZsT_20220913.jpg",
+    "img2": "https://img.yad2.co.il/Pic/202209/13/2_6/o/y2_2_LMTzCDxGbZ_20220913.jpg",
+    "img3": "https://img.yad2.co.il/Pic/202209/13/2_6/o/y2_3_jeD98zn8Sg_20220913.jpg",
+    "price": "$5,538"
+  },{
+    "city": "Kfar-Yona",
+    "address": "Sharona",
+    "rooms": "7 Rooms",
+    "img1": "https://img.yad2.co.il/Pic/202209/23/2_2/o/y2_1_01306_20220923095016.jpeg",
+    "img2": "https://img.yad2.co.il/Pic/202209/23/2_2/o/y2_9_02001_20220923095116.jpeg",
+    "img3": "https://img.yad2.co.il/Pic/202209/23/2_2/o/y2_7_09038_20220923100742.jpeg",
+    "price": "$2,782"
+  },{
+    "city": "Kfar-Yona",
+    "address": "Nahal Taninim 44",
+    "rooms": "9 Rooms",
+    "img1": "https://img.yad2.co.il/Pic/202209/30/2_2/o/y2_4_04381_20220930144400.jpeg",
+    "img2": "https://img.yad2.co.il/Pic/202209/30/2_2/o/y2_2_09812_20220930144322.jpeg",
+    "img3": "https://img.yad2.co.il/Pic/202209/30/2_2/o/y2_1_07390_20220930144307.jpeg",
+    "price": "$3,548"
+  },{
+    "city": "Kfar-Yona",
+    "address": "Ashuah 34",
+    "rooms": "6 Rooms",
+    "img1": "https://img.yad2.co.il/Pic/202210/02/2_2/o/y2_1_04599_20221002142423.jpeg",
+    "img2": "https://img.yad2.co.il/Pic/202210/02/2_2/o/y2_4_09175_20221002142433.jpeg",
+    "img3": "https://img.yad2.co.il/Pic/202210/02/2_2/o/y2_8_04087_20221002142449.jpeg",
+    "price": "$2,667"
+  },{
+    "city": "Kfar-Yona",
+    "address": "Palmah 45",
+    "rooms": "5 Rooms",
+    "img1": "https://img.yad2.co.il/Pic/202207/27/2_2/o/y2_1_07722_20220727143909.jpeg",
+    "img2": "https://img.yad2.co.il/Pic/202207/27/2_2/o/y2_2_01144_20220727143915.jpeg",
+    "img3": "https://img.yad2.co.il/Pic/202207/27/2_2/o/y2_4_02808_20220727143928.jpeg",
+    "price": "$2,412"
+  },{
+    "city": "Kfar-Yona",
+    "address": "Hahodaia",
+    "rooms": "8 Rooms",
+    "img1": "https://img.yad2.co.il/Pic/202209/14/2_6/o/o2_6_1_07884_20220914131547.jpg",
+    "img2": "https://img.yad2.co.il/Pic/202209/14/2_6/o/o2_6_2_04146_20220914131547.jpg",
+    "img3": "https://img.yad2.co.il/Pic/202209/14/2_6/o/o2_6_3_03282_20220914131547.jpg",
+    "price": "$3,690"
+  },{
+    "city": "Kfar-Yona",
+    "address": "Sharona",
+    "rooms": "9 Rooms",
+    "img1": "https://img.yad2.co.il/Pic/202206/27/2_6/o/y2_1_shgpHXxgNk_20220627.jpg",
+    "img2": "https://img.yad2.co.il/Pic/202206/27/2_6/o/y2_2_48pPVzVUVK_20220627.jpg",
+    "img3": "https://img.yad2.co.il/Pic/202206/27/2_6/o/y2_6_etMQ_CMM2L_20220627.jpg",
+    "price": "$5,108"
+  },{
+    "city": "Kfar-Yona",
+    "address": "Palmah",
+    "rooms": "6.5 Rooms",
+    "img1": "https://img.yad2.co.il/Pic/202207/26/2_6/o/o2_6_1_05408_20220726201924.jpg",
+    "img2": "https://img.yad2.co.il/Pic/202207/26/2_6/o/o2_6_2_06386_20220726201925.jpg",
+    "img3": "https://img.yad2.co.il/Pic/202207/26/2_6/o/o2_6_5_08159_20220726201926.jpg",
+    "price": "$4,612"
+  },{
+    "city": "Kfar-Yona",
+    "address": "Hahodaia 28",
+    "rooms": "8 Rooms",
+    "img1": "https://img.yad2.co.il/Pic/202209/14/2_6/o/y2_2_ggxAKhKXBN_20220914.jpg",
+    "img2": "https://img.yad2.co.il/Pic/202209/14/2_6/o/y2_1_UEVyEy1HSe_20220914.jpg",
+    "img3": "https://img.yad2.co.il/Pic/202209/14/2_6/o/y2_5_g2_gVuYW7u_20220914.jpg",
+    "price": "$3,547"
+  }
+]
